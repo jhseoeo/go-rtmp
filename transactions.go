@@ -14,7 +14,7 @@ import (
 
 	"github.com/pkg/errors"
 
-	"github.com/yutopp/go-rtmp/message"
+	"github.com/jhseoeo/go-rtmp/message"
 )
 
 type transaction struct {
